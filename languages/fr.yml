@@ -936,7 +936,7 @@ fr:
   LABEL_DEVELOPMENT_POINT_PRODUCED: Nombre de points de développement produits
   LABEL_POLISH_POINT_PRODUCED: Nombre de points de polissage produits
   LABEL_PRODUCTIVITY: Productivité
-  LABEL_MONEY_EFFICIENCY: Coût de production
+  LABEL_MONEY_EFFICIENCY: Coûts de production
   LABEL_SKILLS: Compétences
   LABEL_HOME: Maison
   LABEL_MONTH: Mois

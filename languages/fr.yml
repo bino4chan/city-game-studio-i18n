@@ -207,7 +207,7 @@ fr:
   LABEL_HAPPINESS: Bonheur
   LABEL_FILTER_BY: Filtrer par
   LABEL_DOOR: Porte
-  LABEL_COGS: Coût des marchandises vendues
+  LABEL_COGS: Coûts des marchandises vendues
   LABEL_TAXES: Impôts et taxes
   LABEL_FIXED_COSTS: Coûts fixes
   LABEL_OVERVIEW: Vue d'ensemble
